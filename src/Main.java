@@ -4,6 +4,5 @@ public class Main {
 		TestMultiplication t = new TestMultiplication();
 		t.testMultiplication();
 		t.testEquality();
-		t.testFrancMultiplication();
 	}
 }
